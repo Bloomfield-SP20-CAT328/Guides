@@ -8,4 +8,4 @@ All assignments instructions are posted in [Assignments](https://github.com/Bloo
 
 All Quizes will be posted in [BlackBoard](https://bb.bloomfield.edu/webapps/blackboard/execute/launcher?type=Course&id=_12571_1&url=)
 
-A link to all assignments and quizes after class will be posted in [Slack - BCGameDev #fa19-cat327](https://bcgamedev.slack.com/archives/CSK917HLY)
+A link to all assignments and quizes after class will be posted in [Slack - BCGameDev #sp20-cat328](https://bcgamedev.slack.com/archives/CSK917HLY)
